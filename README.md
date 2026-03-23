@@ -14,7 +14,7 @@
   - Facilitate task delegation within the group.
   - Act as the primary contact for all instructor communications.
 
-- **Proposal Submission**: Submit your project proposal document via the Blackboard submission box by **   May 4, 2026, at 11:59 pm**.
+- **Proposal Submission**: Submit your project proposal document via the Blackboard submission box by **   April 23, 2026, at 11:59 pm**.
 
 - **Project Requirements**:
   - Choose a project that aligns with the course themes, such as database applications, game development, or applied problem-solving.
